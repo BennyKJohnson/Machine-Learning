@@ -10,5 +10,5 @@ if the sum of these inputs multipled by there given weight is equal to or greate
 
 ### Algorithms
 These algorithms calculate the best weights for each given input to best match the training data.
-  *Perception Training
-  *Gradient Descent
+  * Perception Training
+  * Gradient Descent
